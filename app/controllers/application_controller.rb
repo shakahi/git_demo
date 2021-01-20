@@ -5,4 +5,5 @@ class ApplicationController < ActionController::Base
   #ADDED THIS LINE.
   #ADDED THIS LINE AS FEATURE1.
   #ADDED THIS LINE AS FEATURE1 2ND TIME.
+  #ADDED THIS LINE AS FEATURE1 3RD TIME.
 end
