@@ -4,4 +4,6 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
   #ADDED THIS LINE.
   #ADDED THIS LINE FROM MASTER 2.
+  #ADDED THIS LINE FROM FEATURE 2.
+     #ANOTHER LINE FROM FEATURE 2.
 end
